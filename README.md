@@ -31,6 +31,8 @@ An engineer transitioning into **Full Stack Development**, passionate about solv
   <img width="30" height="30" src="https://skillicons.dev/icons?i=postman" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=npm" />
   <img width="30" height="30" src="https://skillicons.dev/icons?i=vite" />
+  <img width="30" height="30" src="https://skillicons.dev/icons?i=vue" />
+  <img width="30" height="30" src="https://skillicons.dev/icons?i=spring" />
 </div>
 
 ---
